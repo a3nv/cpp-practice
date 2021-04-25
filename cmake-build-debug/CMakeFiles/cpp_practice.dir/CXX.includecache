@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ivanasonov/git_repo/edu/cpp/cpp-practice/src/com/competetive/practice/leetcode/solutions/medium/M384ShuffleAnArray.cpp
+vector
+-
+iostream
+-
+random
+-
+
